@@ -1,4 +1,4 @@
-# Lab 2: AI-Generated GitHub Actions CI/CD Pipeline
+#AI-Generated GitHub Actions CI/CD Pipeline
 
 **Domain:** Healthcare Claims Processing
 
